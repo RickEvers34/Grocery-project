@@ -1,5 +1,4 @@
 import grocery_list
-grocery_items = []
 
 print("Dit is je boodschappenlijst")
 
